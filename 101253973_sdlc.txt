@@ -1,0 +1,1 @@
+### DevOps engineers build new skills on top of their current experience. The main purpose of DevOps is to reduce software development, and deployment cycle time. So it is best practice that DEvops engineers undertand the fundamentals of application development and delivery.
