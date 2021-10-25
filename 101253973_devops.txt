@@ -1,1 +1,5 @@
 ### the term Devops really refers to the system and processes put into practice to increase team collaboration in any type of business, large or small
+
+### COMP 3104 DevOps course
+
+Three main tool that are used in COMP 3104 are Github, Jenkins, and Travis CI
