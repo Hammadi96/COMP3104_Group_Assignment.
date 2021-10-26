@@ -1,1 +1,13 @@
-### DevOps engineers build new skills on top of their current experience. The main purpose of DevOps is to reduce software development, and deployment cycle time. So it is best practice that DEvops engineers undertand the fundamentals of application development and delivery.
+### DevOps engineers build new skills on top of their current experience. The main purpose of DevOps is to reduce software development, and deployment cycle time. So it is best practice that Devops engineers understand the fundamentals of application development and delivery.
+
+### Top Ten Skill Require for DEVOPS Engineers
+1 Communication and Collaboration
+2 Soft Skills and Noble Thought
+3 Understanding of Relevant Tools
+4 Security Skills
+5 Automation Skills
+6 Coding and Scripting
+7 Cloud Skills
+8 Testing Skills
+9 Customer-Focused Approach
+10 Proactiveness
