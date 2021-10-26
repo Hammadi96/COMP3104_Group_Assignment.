@@ -1,0 +1,4 @@
+**COMP3104**
+-The course will prepare students for future carriers in IT field.
+-Hand-on development process for students
+-The course will provide students to apply DevOps methods into future projects.
