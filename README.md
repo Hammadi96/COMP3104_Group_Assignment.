@@ -12,3 +12,16 @@
 
 # learning DevOps engineer in software development cycle
 ![devops!](image/devops-b.png)
+
+*Top Ten Skill Require for DEVOPS Engineers*
+
+1. Communication and Collaboration
+2. Soft Skills and Noble Thought
+3. Understanding of Relevant Tools
+4. Security Skills
+5. Automation Skills
+6. Coding and Scripting
+7. Cloud Skills
+8. Testing Skills
+9. Customer-Focused Approach
+10. Proactiveness
