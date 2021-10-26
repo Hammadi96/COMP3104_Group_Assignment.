@@ -1,7 +1,7 @@
 ##### initial input for group assignment
 
 # information about George Brown 
-[History of George Brown](https://en.wikipedia.org/wiki/George_Brown_College).
+[History of George Brown](https://en.wikipedia.org/wiki/George_Brown_College)
 
 # information about COMP 3104 
 
@@ -25,3 +25,5 @@
 8. Testing Skills
 9. Customer-Focused Approach
 10. Proactiveness
+
+[Expanded Top Ten Skill List](https://www.veritis.com/blog/top-10-skills-that-make-a-perfect-devops-engineer/)
