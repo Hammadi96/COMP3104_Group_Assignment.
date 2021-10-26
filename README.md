@@ -11,3 +11,4 @@
 - Travis CI
 
 # learning DevOps engineer in software development cycle
+![devops!](image/devops-b.png)
