@@ -3,3 +3,17 @@
 ### COMP 3104 DevOps course
 
 Three main tool that are used in COMP 3104 are Github, Jenkins, and Travis CI
+
+Recommended Resources:
+1. https://github.com
+2. https://travis-ci.com
+3. https://docker.com
+4. https://kubernetes.io
+5. https://www.sonarqube.org
+
+Lecture Quizzes 8 x 1% ==========> week2-13
+Lab Exercises 8 x 2% ============> week1-13
+Individual assignment 10% =======> week12
+Group assignment 16% ============> week6
+Mid-term exam 20% ===============> week9
+Final exam 30%	=================> week15
