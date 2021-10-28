@@ -1,0 +1,6 @@
+##Impotance of learning DevOps engineer in software development cycle##
+1. DevOps development cycle provides faster delivery and growth of business.
+2. High demand in IT filed at the moment.
+3. DevOps will ensure better product quality 
+4. Increase deployment success rates.
+5.imporve collabration and communication within a team
