@@ -1,3 +1,4 @@
 **George Brown College**
-###The college is located in Toronto Ontario and with 
-three compuses arount the city ###
+##The college is located in Toronto Ontario and with 
+three differnt compuses arount the city. The college was established in 1967 during the formation of Ontario's communty college system,
+ which was initiated by the the government of Ontario.##
